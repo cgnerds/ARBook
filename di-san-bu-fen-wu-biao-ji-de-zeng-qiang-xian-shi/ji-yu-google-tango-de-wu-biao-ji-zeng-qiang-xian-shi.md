@@ -71,6 +71,78 @@ Unity中Tango开发用的最低Android API是17，需要在Build Settings中进�
 
 这样，Tango相关的资源包就会出现在Project面板中的Assets文件夹下。
 
+### 删除主相机
+
+在Hierarchy面板，选择并删除Main Camera游戏对象。
+
+我们将要开发的Apps会使用Tango SDK中自定义的“prefab”相机。然而，对于某些应用来说，Main Camera也可能会用到（例如，一个解谜/探秘游戏中，你会以第三视角观察自己的行为）。如果你计划的这种类型的游戏，在项目中保留Main Camera。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

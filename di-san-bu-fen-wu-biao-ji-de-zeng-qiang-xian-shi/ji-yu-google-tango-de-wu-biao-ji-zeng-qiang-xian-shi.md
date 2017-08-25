@@ -32,13 +32,14 @@ Project Tango的第一个核心技术”运动追踪“的三维动态捕捉就�
 
 # 基于Tango的增强现实开发
 
-## 前置条件
+## Unity之Tango开发准备
 
-* 一台Tango设备，因为还没有可以模拟Tango相关摄像头硬件的模拟器，上节中的Zenfone AR是很不错的开发机！
-* Android SDK 版本高于17 。
-* Unity（5.2.1—5.6.3），目前尚未支持2017.x版本。
+使用Unity为Tango设备开发应用，你需要做好以下准备：
+
+* [Unity](https://unity3d.com/get-unity/download)（5.2.1—5.6.3），目前尚未支持2017.x版本。
 * [Tango Unity SDK](https://developers.google.com/tango/downloads)。
-* 在Windows平台上需要安装[Google USB Driver](https://developer.android.com/studio/run/win-usb.html)。这个是通用的USB驱动器，支持绝大多数Android手机。
+* [Android SDK](https://developer.android.com/studio/index.html) 版本高于17 。
+* 在Windows平台上，如果你的Tango设备没有自动识别，需要安装[Google USB Driver](https://developer.android.com/studio/run/win-usb.html)。这个是通用的USB驱动器，支持绝大多数Android手机。
 
 
 

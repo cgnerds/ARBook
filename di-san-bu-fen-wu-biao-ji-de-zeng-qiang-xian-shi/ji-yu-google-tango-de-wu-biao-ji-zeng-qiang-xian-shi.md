@@ -43,5 +43,13 @@ Project Tango的第一个核心技术”运动追踪“的三维动态捕捉就�
 
 除此之外，你还需要进行一些其他设置。
 
-当你将Tango设备插到计算机之后，应该可以看到
+当你将Tango设备插到计算机之后，应该可以在消息通知区域看到三个竖条和“USB debugging connected”提示文字。如果没有看到的话，需要按照该[链接](https://developer.android.com/studio/run/device.html#setting-up)中的步骤2来开启手机的USB调试功能。
+
+在Unity中第一次构建Android项目时，Unity会提示你设置Android SDK的安装路径，可以手动设置为Unity→Preferences→External Tools→Android SDK根目录。
+
+Unity中Tango开发用的最低Android API是17，需要在Build Settings中进行设置。依次打开File→Build Settings→Android，点击PlayerSettings...按钮，在Other Settings下找到Minum API Leve，将其l设置为Android 4.2 ‘Jelly Bean’ \(APK Level 17\)或者更高。
+
+
+
+
 

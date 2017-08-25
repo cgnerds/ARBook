@@ -49,6 +49,16 @@ Project Tango的第一个核心技术”运动追踪“的三维动态捕捉就�
 
 Unity中Tango开发用的最低Android API是17，需要在Build Settings中进行设置。依次打开File→Build Settings→Android，点击PlayerSettings...按钮，在Other Settings下找到Minum API Leve，将其l设置为Android 4.2 ‘Jelly Bean’ \(APK Level 17\)或者更高。
 
+## 针对所有Unity Tango应用的设置
+
+### 在Unity中创建一个新的工程
+
+1. 选择File→New Project。这样会打开一个Projects窗口。
+2. 在Project Name文本框中，为你的新项目输入一个名字。
+3. 在Location文本框中，要么接受其默认路径，要么点击右侧的图标将其设置为其他路径。
+4. 确保项目设置为3D类型。
+5. 点击Create Project。
+
 
 
 

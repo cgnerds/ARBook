@@ -30,7 +30,17 @@ Project Tango的第一个核心技术”运动追踪“的三维动态捕捉就�
 
 全球第一款消费级的Tango+Daydream设备，使用骁龙821来保证用户得到Daydream体验，第一款Daydream手机Google Pixel和Asus Zenfone 3也使用的是骁龙821.由于Daydream Viewer现在兼容的手机尺寸是5.0到5.7寸屏，那么Zenfone AR搭配Android 7（Nougat）的5.7寸屏用起来应当是相当顺手的。
 
-# Tango开发
+# 基于Tango的增强现实开发
 
-首先，你需要一款Tango设备，因为还没有可以模拟Tango相关摄像头硬件的模拟器，上节中的Zenfone AR是很不错的开发机！如果你熟悉Unity 3D的开发，那就直接用Unity 3D的Package，因为80%的Tango APP都是用Unity 3D开发的，当然最多的就是游戏啦。
+## 前置条件
+
+* 一台Tango设备，因为还没有可以模拟Tango相关摄像头硬件的模拟器，上节中的Zenfone AR是很不错的开发机！
+* Android SDK 版本高于17 。
+* Unity（5.2.1—5.6.3），目前尚未支持2017.x版本。
+* [Tango Unity SDK](https://developers.google.com/tango/downloads)。
+* 在Windows平台上需要安装[Google USB Driver](https://developer.android.com/studio/run/win-usb.html)。这个是通用的USB驱动器，支持绝大多数Android手机。
+
+
+
+
 

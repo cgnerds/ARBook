@@ -59,6 +59,18 @@ Unity中Tango开发用的最低Android API是17，需要在Build Settings中进�
 4. 确保项目设置为3D类型。
 5. 点击Create Project。
 
+### 导入Tango SDK
+
+如果你还没有从[Tango官网](https://developers.google.com/tango/downloads)下载Tango SDK相关的.unitypackage包，现在就将其下载下来。
+
+1. 选择Assets→Import Package→Custom Package。
+2. 找到下载好的TangoSDK.unitypackage文件，将其打开。
+3. 在Import Unity Package对话框中，确保勾选所有复选框（默认全部勾选），然后点击右下方的Import按钮。
+
+![](/assets/01-unity-import.png)
+
+这样，Tango相关的资源包就会出现在Project面板中的Assets文件夹下。
+
 
 
 

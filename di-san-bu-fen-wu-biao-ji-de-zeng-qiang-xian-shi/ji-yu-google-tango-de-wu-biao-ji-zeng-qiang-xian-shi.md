@@ -87,7 +87,7 @@ Unity中Tango开发用的最低Android API是17，需要在Build Settings中进�
 
 1.选择File→Build Settings。
 
-2. 在Platform列表中，选择Android，然后点击**Switch Platform**按钮。Unity会重新导入一些资源，Assets Progress对话框会告诉你导入进展。
+2.在Platform列表中，选择Android，然后点击**Switch Platform**按钮。Unity会重新导入一些资源，Assets Progress对话框会告诉你导入进展。
 
 3.在平台切换完成后，点击**Player Settings**按钮。
 
@@ -95,11 +95,13 @@ Unity中Tango开发用的最低Android API是17，需要在Build Settings中进�
 
 4.点击**Other Settings**以打开该面板，然后在**Bundle Identifier**输入期望的包名。 在这里用的是com.google.tango.prefab。
 
-5. 点击**Minimum API Level**下拉列表然后选择API Level 17或更高。
+5.点击**Minimum API Level**下拉列表然后选择API Level 17或更高。
 
 ![](/assets/bundle-identifier.png)
 
 6.关闭Build Settings对话框。
+
+## 在AR中放置虚拟物体
 
 
 

@@ -91,7 +91,7 @@ Unity中Tango开发用的最低Android API是17，需要在Build Settings中进�
 
 ![](/assets/build-settings-general.png)
 
-1. 点击**Other Settings**以打开该面板，然后在**Bundle Identifier**输入期待的包名。 
+4. 点击**Other Settings**以打开该面板，然后在**Bundle Identifier**输入期待的包名。 
 
 
 

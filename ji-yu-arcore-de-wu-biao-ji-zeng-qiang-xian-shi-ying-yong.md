@@ -14,7 +14,5 @@ ARCore的工作原理主要有以下几点：
 
 ## ARCore与Tango对比
 
-
-
-
+ARCore和Tango两者的性能都很强大
 

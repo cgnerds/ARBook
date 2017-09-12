@@ -14,5 +14,9 @@ ARCore的工作原理主要有以下几点：
 
 ## ARCore与Tango对比
 
-ARCore和Tango两者的性能都很强大
+ARCore和Tango两者的性能都很强大，但最突出的差别是对硬件的要求，ARCore不需要额外的硬件就能在Android上运行，而Tango需要专属的定制硬件联想PHAB 2 Pro或华硕Zenfone AR上才能运行，这两款硬件产品的处理器配置低、巨大的边框设计和不良的电池寿命让用户牺牲了很多体验。在这一点上，ARCore比Tango升级不少。
+
+## ARCore与ARKit对比
+
+
 

@@ -4,7 +4,11 @@
 
 据了解 ，目前Google ARCore只支持Google Pixel和Samsung Galaxy S8两种型号的设备，谷歌表示，他们正在积极与三星、华硕、LG、华为等厂商开展合作，预计今年11月份，将会有超过1亿的Android用户可以访问ARCore的应用程序。
 
+## ARCore的工作原理
 
+ARCore的工作原理主要有以下几点：
+
+1. 运动跟踪：它利用IMU传感器和设备的相机来发现空间的特征点，由此确定Android设备的位置和方向。此外，使用VPS，可以让AR物体每次看起来似乎都在同一位置。
 
 ARCore的核心功能有三个：相机姿态估计，环境感知及光源感知（Light Estimation）。
 

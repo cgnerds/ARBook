@@ -6,11 +6,9 @@
 
 ## 基于二维码的增强现实
 
+## 基于自然特征的增强现实
 
-
-## Nature Feature Tracking
-
-## SLAM Markerless Tracking
+## 基于SLAM的无标识增强现实
 
 
 

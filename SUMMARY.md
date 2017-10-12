@@ -6,6 +6,7 @@
   * [增强现实的组成](di-yi-bu-fen-ji-chu-zhi-shi/zeng-qiang-xian-shi-ying-yong-ling-yu.md)
   * [增强现实的简史](di-yi-bu-fen-ji-chu-zhi-shi/zeng-qiang-xian-shi-de-jian-shi.md)
   * [增强现实的发展现状](di-yi-bu-fen-ji-chu-zhi-shi/zeng-qiang-xian-shi-de-fa-zhan-xian-zhuang.md)
+  * [AR研究价值](di-yi-bu-fen-ji-chu-zhi-shi/aryan-jiu-jia-zhi.md)
   * [AR、VR与MR](di-yi-bu-fen-ji-chu-zhi-shi/zeng-qiang-xian-shi-yu-xu-ni-xian-shi-3001-hun-he-xian-shi-de-qu-bie.md)
   * [增强现实的发展机遇](di-yi-bu-fen-ji-chu-zhi-shi/zeng-qiang-xian-shi-de-fa-zhan-ji-yu.md)
 * [第二部分 有标记的增强现实系统](di-er-bu-fen-you-biao-ji-de-zeng-qiang-xian-shi-xi-tong.md)
